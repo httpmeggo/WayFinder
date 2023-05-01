@@ -8,7 +8,7 @@
  * @version 4/10/2021
  */
 
-package project4;
+package WayFinder;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
