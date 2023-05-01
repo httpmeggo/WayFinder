@@ -7,5 +7,5 @@ The puzzle uses an array of positive integers. The objective is to find a path f
 
 The goal of this programming project is for you to master (or at least get practice on) the following tasks:
 
-designing a program from scratch (deciding what classes and method should be part of the program)
-writing recursive functions
+- designing a program from scratch (deciding what classes and method should be part of the program)
+- writing recursive functions
